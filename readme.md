@@ -21,3 +21,6 @@ Veja algumas curiosidades sobre esse animal:
 Fonte: Canal do Pet - iG @ https://canaldopet.ig.com.br/curiosidades/2017-12-20/curiosidades-cachorros.html <br>
 Dica: colocar título da página nas entre a tag title.
 OBSERVAÇÃO: O exemplo é sobre um site de cachorros, mas você pode colocar informações sobre outro tipo de hobby, ok?"
+
+<br>
+(CSS adicionado posteriormente, a critério de treinamento; atividade entregue apenas em HTML)
